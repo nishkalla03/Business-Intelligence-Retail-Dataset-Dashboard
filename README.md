@@ -34,7 +34,9 @@ Provided actionable strategies including pricing, promotions, inventory manageme
 
 🖼️ Dashboard Preview
 <img width="1006" height="568" alt="image" src="https://github.com/user-attachments/assets/5562c647-970c-4b7f-a858-8131f5641023" />
+
 <img width="1024" height="587" alt="image" src="https://github.com/user-attachments/assets/28be9c6d-ff74-4509-a8da-687b04096bee" />
+
 <img width="1007" height="575" alt="image" src="https://github.com/user-attachments/assets/3a51ee08-426e-42ca-879d-d1eed920872a" />
 
 📁 Dataset
