@@ -6,7 +6,7 @@ Business Intelligence Retail Dashboard
 
 This project focuses on analyzing a retail dataset to generate meaningful business insights through data preprocessing, cleaning, and visualization.
 
-⚙️ Tools & Technologies
+⚙️ Tools & Technologies : 
 Excel, Python, Power BI
 
 📈 Key Features
