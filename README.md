@@ -6,6 +6,19 @@ Business Intelligence Retail Dashboard
 
 This project focuses on analyzing a retail dataset to generate meaningful business insights through data preprocessing, cleaning, and visualization.
 
+## My Contribution
+
+This was a **group project** focused on developing a Business Intelligence Retail Dashboard.
+
+I contributed to the project by supporting the data analysis and dashboard development process, including:
+
+- Assisting with data preprocessing and cleaning
+- Supporting exploratory data analysis (EDA)
+- Contributing to dashboard design and visualization development
+- Helping transform raw retail data into meaningful business insights
+
+Through this project, I gained hands-on experience in applying business intelligence techniques to analyze retail performance and support data-driven decision-making.
+
 ⚙️ Tools & Technologies : 
 Excel, Python, Power BI
 
