@@ -6,7 +6,7 @@ Business Intelligence Retail Dashboard
 
 This project focuses on analyzing a retail dataset to generate meaningful business insights through data preprocessing, cleaning, and visualization.
 
-My Contribution
+- My Contribution
 
 This was a **group project** focused on developing a Business Intelligence Retail Dashboard.
 
